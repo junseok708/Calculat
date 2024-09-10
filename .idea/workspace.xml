@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ee439ed-1815-49b8-9315-04efa8bf0601" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Four_Basic/addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four_Basic/division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four_Basic/multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four_Basic/operationing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four_Basic/subtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InfoInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InoutExceotion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Regular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;junseok708&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/junseok708/Calculat.git&quot;,
+    &quot;accountId&quot;: &quot;1a5c07d2-82a1-4475-a635-436e3c3eee1a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ld6Wz6jVrwwuQfd9zMOEOJZVTI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ekaql/OneDrive/바탕 화면/개발/Kotlin &amp; Spring/Java_cata/Java_문법_종합반_권준석/Java_문법_종합반_권준석/Calculator_Machine2&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ekaql/OneDrive/바탕 화면/개발/팀 프로젝트/untitled/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;애플리케이션.Main.executor&quot;: &quot;Run&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5ee439ed-1815-49b8-9315-04efa8bf0601" name="변경" comment="" />
+      <created>1725497641567</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725497641567</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
