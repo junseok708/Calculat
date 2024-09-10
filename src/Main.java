@@ -5,10 +5,10 @@ public class Main {
     public static void main(String[] args) {
         boolean End = false;
 
-        while (!End){
+        while (!End) {
             try {
                 End = InfoInput.input();
-            }catch (Exception e) {
+            } catch (Exception e) {
                 System.out.println(e.getMessage());
             }
         }
@@ -24,7 +24,7 @@ public class Main {
         String algorithm = "";
         int answer = 0;
 
-        for (; ; ) {
+        while(true) {
             System.out.println("계산할 숫자를 입력해주세요");
             System.out.println("-------------");
 
@@ -124,4 +124,3 @@ public class Main {
         }
     }
 }
-//a
