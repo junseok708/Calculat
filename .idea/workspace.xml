@@ -5,17 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ee439ed-1815-49b8-9315-04efa8bf0601" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Four_Basic/addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Four_Basic/division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Four_Basic/multiplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Four_Basic/subtraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Regular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_Basic/addition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_Basic/addition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_Basic/division.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_Basic/division.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_Basic/multiplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_Basic/multiplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_Basic/operationing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_Basic/operationing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Four_Basic/subtraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Four_Basic/subtraction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InfoInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InfoInput.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/InoutExceotion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InoutExceotion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Regular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Regular.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,12 +66,24 @@
     "git-widget-placeholder": "junseok",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ekaql/OneDrive/바탕 화면/개발/Kotlin & Spring/Java_cata/Java_문법_종합반_권준석/Java_문법_종합반_권준석/Calculator_Machine2",
+    "last_opened_file_path": "C:/Users/ekaql/OneDrive/바탕 화면/개발/Kotlin & Spring/프로젝트/calculator_Ver_02",
     "onboarding.tips.debug.path": "C:/Users/ekaql/OneDrive/바탕 화면/개발/팀 프로젝트/untitled/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.general",
     "애플리케이션.Main.executor": "Run"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
